@@ -17,3 +17,5 @@ routes.get('/', (request, response) => {
         sobrenome: "Emanuel"
     })
 })
+
+module.exports = routes
